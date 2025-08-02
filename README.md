@@ -1,5 +1,5 @@
 # blue_prince_numeric_core_solver
-A simple solver for Numeric Cores in Blue Prince
+A simple solver for Numeric Cores in the puzzle/mystery game Blue Prince
 
 From the Blue Prince [wiki](https://blue-prince.fandom.com/wiki/Numeric_Core):
 
